@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: const HomePage(
-        animiTime: 70,
+        animiTime: 60,
       ),
     );
   }
